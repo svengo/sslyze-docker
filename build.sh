@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t mikeyyuen/sslyze .
+docker build -t svengo/sslyze .
 
