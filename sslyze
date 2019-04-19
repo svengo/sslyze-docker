@@ -1,4 +1,3 @@
 #!/bin/bash
 
-docker run -it --rm mikeyyuen/sslyze "$@"
-
+docker run -it --rm svengo/sslyze "$@"
