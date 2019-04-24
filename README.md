@@ -12,4 +12,4 @@ Helper script to wrap sslyze
 ```bash
 ./sslyze --regular ss1.slipstreamproject.com:443
 ```
-3
+4
